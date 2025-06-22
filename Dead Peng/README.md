@@ -1,5 +1,5 @@
 # [Canvas Bird](http://codepen.io/yiotiskl/pen/wGXeKV)
-Canvas Bird is a quick flappy bird like game I threw together using HTML5 canvas and javascript, without any frameworks.
+Dead Peng Flappy is a quick flappy bird like game I threw together using HTML5 canvas and javascript, without any frameworks.
 Click [here](http://codepen.io/yiotiskl/pen/wGXeKV) to play now!
 
 ## Description
